@@ -1,0 +1,35 @@
+body {
+  background: #fcfcfa;
+}
+
+.stroke {
+  fill: none;
+  stroke: #000;
+  stroke-width: 3px;
+}
+
+.fill {
+  fill: #222;
+}
+
+.graticule {
+  fill: none;
+  stroke: #777;
+  stroke-width: .5px;
+  stroke-opacity: .5;
+}
+
+.land {
+  fill: green;
+}
+
+.country {
+  fill: #222;
+  stroke: #4bffff;
+}
+
+.boundary {
+  fill: none;
+  stroke: #4bffff;
+  stroke-width: .5px;
+}
