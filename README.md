@@ -24,6 +24,7 @@ npm install
 # Then simply start your app (can also use yarn start)
 npm start
 ```
+Then open http://localhost:3000/ in Chrome.
 
 TODO
 ---------------
